@@ -301,6 +301,11 @@ Start adding your names here:
 - [![twitter-alt][twitter-img]](https://twitter.com/alexEndrios)
   [![facebook-alt][facebook-img]](https://facebook.com/alex.endrios)
   [![github-alt][github-img]](https://github.com/alexendrios)
+  
+### Renato Siqueira
+- Not Student
+- Programmer
+  [![github-alt][github-img]](https://github.com/renatosiqueira)
 
 ### Elijah Rwothoromo
 - Software Developer
